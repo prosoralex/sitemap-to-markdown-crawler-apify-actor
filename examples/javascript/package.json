@@ -1,0 +1,8 @@
+{
+  "name": "sitemap-to-markdown-crawler-example",
+  "private": true,
+  "type": "module",
+  "description": "Client example for the Sitemap to Markdown Crawler — Website to Markdown for LLM & RAG Apify Actor",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.9.0" }
+}
